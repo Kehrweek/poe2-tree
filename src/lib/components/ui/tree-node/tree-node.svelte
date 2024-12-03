@@ -1,6 +1,5 @@
 <script lang="ts">
 	import type { TreeNodeData } from '$lib';
-	import { base } from '$app/paths';
 
 	let {
 		node,
